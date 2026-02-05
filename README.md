@@ -40,4 +40,3 @@ This implementation covers **Use Case 1 to Use Case 3 (UC1–UC3)**.
 
 ---
 
-## Project Structure
