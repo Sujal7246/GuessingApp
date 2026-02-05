@@ -13,6 +13,10 @@ public class GameConfig {
         this.targetNumber = r.nextInt(MAX-MIN+1)+MIN;
     }
 
+    public int getTargetNumber() {
+        return targetNumber;
+    }
+
     public int getMIN() {
         return MIN;
     }
