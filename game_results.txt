@@ -2,3 +2,6 @@ Player: Sujal, Attempts used1, Result:LOSE😔
 Player: Sujal, Attempts used5, Result:LOSE😔
 Player: Sujal, Attempts used7, Result:LOSE😔
 Player: Sujal, Attempts used3, Result:WIN🏆
+Player: sujal, Attempts used: 6, Result:WIN🏆
+Player: sujal, Attempts used: 4, Result:WIN🏆
+Player: sujal, Attempts used: 7, Result:LOSE😔
